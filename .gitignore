@@ -1,0 +1,109 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+.vs/
+_ReSharper*/
+*.ncrunch*/
+*.BuildArtifacts*/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio-specific files
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.opendb
+*.VC.db
+*.opendb
+*.tlog
+*.lastbuildstate
+
+# Visual Studio Code-specific files
+.vscode/
+
+# C++ specific
+*.obj
+*.o
+*.gch
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.hxproj
+*.plg
+*.vscode/
+*.swp
+*.dir
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+
+# Shared objects (Unix)
+*.so
+*.so.*
+
+# Static Libraries
+*.dll
+*.class
+*.exe
+*.out
+
+# IDE-specific
+.idea/
+
+# Additional build artifacts
+*.d
+*.dSYM/
+*.exe.stackdump
+
+# Temporary files
+*.tmp
+*.temp
+*.~*
+~$*
+
+# Backup files
+*.bak
+*.old
+*.orig
+*.save
+*.swp
+*.swo
+*.swn
+
+# Other
+*.log
+*.trace
+*.pid
